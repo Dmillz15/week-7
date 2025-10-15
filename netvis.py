@@ -1,7 +1,7 @@
 '''
 Basic idea:
 
-1. Make updates
+1. Make update
 2. Rerun this file
 3. Refresh the visualization in your browser.
 '''
